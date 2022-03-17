@@ -3,6 +3,7 @@ Projeto desenvolvido em front-end usando apenas html, javascript e css. Neste pr
 Também temos o botão para reiniciar e finalizar o jogo.
 Ao informar empate, todos os jogadores registram 1 empate.
 Ao informar o jogador vitorioso, os demais automaticamente tem uma derrota informada.
+Os pontos são calculados automaticamente.
 
 
 ![tela](https://user-images.githubusercontent.com/88552839/158887753-c7c4a598-ce7e-4e79-9dfa-018975ee72ba.png)
